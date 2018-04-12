@@ -26,3 +26,6 @@ e^{- \overset{n_1}{\underset{i = 1}{\Sigma}} (x_i - \mu)' \Sigma^{- 1} (x_i -
 in and only if $\Sigma = \frac{\mathbf{B}}{2 b}$ should the equation hold.  Then we denote $b = \dfrac{n_1+n_2}{2}$ and $\textbf{B} = (n_1 - 1 )S_1^2 + (n_2-1 )S_2^2$.
 Thus $$\hat{\mu_1} = \bar{x_1} $$, $$\hat{\mu_2} =\bar{x_2} $$, $$\hat{\Sigma}= \dfrac{n_1+n_2 -2}{n_1+n_2} {\textbf{S}}_{pooled}
 $$. 
+
+
+# Seems that this does not support in-line LaTeX. 
